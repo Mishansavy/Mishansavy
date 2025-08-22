@@ -17,11 +17,8 @@
 #### **Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=black" alt="C">
-  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </p>
 
 #### **Frontend Development**
@@ -38,7 +35,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt="POSTGRESQL">
 </p>
@@ -78,16 +74,15 @@
   <table>
     <tr>
       <td>
-        <h3><a href="https://hexconverter.mishanshah.com.np/">Hex-Converter</a></h3>
-        <p>A simple tool to convert and modify hex codes, especially helpful for developers needing to adjust opacity values for their color schemes.</p>
-        <p><b>Tech Stack:</b> HTML, CSS, JavaScript</p>
+        <h3><a href="https://github.com/Mishansavy/employee-management-system">Employee Management System</a></h3>
+        <p>A complete full-stack application demonstrating a microservices architecture. This project shows how a frontend client consumes data from independent FastAPI services, and how service-to-service validation works.</p>
       </td>
     </tr>
     <tr>
       <td>
-        <h3><a href="https://github.com/Mishansavy/UpScaler">UpScaler</a></h3>
-        <p>A tool for video upscaling using machine learning techniques to improve the resolution and clarity of low-resolution videos.</p>
-        <p><b>Tech Stack:</b> ReactJS, Node.js, TensorFlow.js</p>
+        <h3><a href="https://github.com/Mishansavy/FastAPI-Next.js-JWE-demo-client-side-decryption-">UpScaler</a></h3>
+        <p>A tiny project that sends encrypted API responses (JWE) from FastAPI and decrypts only in the browser (Next.js).
+You’ll see a romantic poem rendered in the UI; everyone else (CDNs, logs, network tab) just sees an opaque JWE blob.</p>
       </td>
     </tr>
     <tr>
