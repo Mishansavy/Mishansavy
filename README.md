@@ -80,7 +80,7 @@
     </tr>
     <tr>
       <td>
-        <h3><a href="https://github.com/Mishansavy/FastAPI-Next.js-JWE-demo-client-side-decryption-">UpScaler</a></h3>
+        <h3><a href="https://github.com/Mishansavy/FastAPI-Next.js-JWE-demo-client-side-decryption-">FastAPI Next.js JWE demo client-side Decryption</a></h3>
         <p>A tiny project that sends encrypted API responses (JWE) from FastAPI and decrypts only in the browser (Next.js).
 You’ll see a romantic poem rendered in the UI; everyone else (CDNs, logs, network tab) just sees an opaque JWE blob.</p>
       </td>
