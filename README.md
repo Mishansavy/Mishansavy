@@ -25,13 +25,17 @@ PostgreSQL · Docker · Terraform · GCP · NGINX · Linux
 
 ### Projects
 
-**[Employee Management System](https://github.com/Mishansavy/employee-management-system)**
-Microservices backend with independent FastAPI services, 
-service-to-service JWT validation, Docker orchestration.
+**[NEPSE Trend Analysis](https://github.com/Mishansavy/nepse-trend-analayis)**
+LSTM-based stock trend predictor for Nepal Stock Exchange.
+Django REST backend, full training pipeline, JWT auth, Chart.js dashboard.
 
 **[JWE Client-Side Decryption Demo](https://github.com/Mishansavy/FastAPI-Next.js-JWE-demo-client-side-decryption-)**
 FastAPI sends encrypted JWE responses. Decryption happens 
 only in the browser — private key never touches the server.
+
+**[Employee Management System](https://github.com/Mishansavy/employee-management-system)**
+Microservices backend with independent FastAPI services, 
+service-to-service JWT validation, Docker orchestration.
 
 ---
 
