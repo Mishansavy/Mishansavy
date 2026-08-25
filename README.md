@@ -1,18 +1,8 @@
 # Mishan Shah
 
-Backend & Cloud Engineer based in Kathmandu, Nepal.
+Four years in backend and cloud engineering, based in Kathmandu, Nepal. Currently Head of Engineering & IT at LQ Digital. Before that, I led their development team.
 
-Building and maintaining production backend systems at LQ Digital —
-Django, FastAPI, GCP, Docker, Terraform, PostgreSQL.
-
----
-
-### What I work on
-
-- Backend API design and architecture
-- Cloud infrastructure on GCP
-- Production systems — deployments, server management, reliability
-- System design for real traffic and failure scenarios
+I can't leave a new tool alone until I understand it, which is how I've ended up across Django, FastAPI, GCP, and increasingly AI. Most of my day now is architecture, code review, and deciding where AI actually belongs in a product versus where it's just noise.
 
 ---
 
@@ -26,22 +16,19 @@ PostgreSQL · Docker · Terraform · GCP · NGINX · Linux
 ### Projects
 
 **[MeetMind](https://github.com/Mishansavy/MeetMind)**
-Meeting intelligence for teams. WebRTC video calls with live captions, Whisper transcription, and automatic action-item extraction with spaCy.
+Real-time meeting intelligence: WebRTC calls, Whisper transcription, spaCy action-item extraction.
 
 **[NEPSE Trend Analysis](https://github.com/Mishansavy/nepse-trend-analysis)**
-LSTM-based stock trend predictor for Nepal Stock Exchange.
-Django REST backend, full training pipeline, JWT auth, Chart.js dashboard.
+LSTM model for the Nepal Stock Exchange. Built mostly to see where it breaks on a thin, illiquid market.
 
 **[JWE Client-Side Decryption Demo](https://github.com/Mishansavy/jwe-client-decrypt-demo)**
-FastAPI sends encrypted JWE responses. Decryption happens 
-only in the browser — private key never touches the server.
+FastAPI ships encrypted JWE responses; decryption happens only in the browser, so the server never sees plaintext.
 
 **[Employee Management System](https://github.com/Mishansavy/employee-management-system)**
-Microservices backend with independent FastAPI services, 
-service-to-service JWT validation, Docker orchestration.
+FastAPI microservices talking over signed JWTs, wired together with Docker.
 
 ---
 
-[mishanshah.com.np](https://mishanshah.com.np) · 
-[LinkedIn](https://www.linkedin.com/in/mishan-raj-shah/) · 
+[mishanshah.com.np](https://mishanshah.com.np) ·
+[LinkedIn](https://www.linkedin.com/in/mishan-raj-shah/) ·
 [dev.to/mishansavy](https://dev.to/mishansavy)
