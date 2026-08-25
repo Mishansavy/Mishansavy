@@ -25,14 +25,14 @@ PostgreSQL · Docker · Terraform · GCP · NGINX · Linux
 
 ### Projects
 
-**[NEPSE Trend Analysis](https://github.com/Mishansavy/nepse-trend-analayis)**
-LSTM-based stock trend predictor for Nepal Stock Exchange.
-Django REST backend, full training pipeline, JWT auth, Chart.js dashboard.
-
 **[MeetMind](https://github.com/Mishansavy/MeetMind)**
 Meeting intelligence for teams. WebRTC video calls with live captions, Whisper transcription, and automatic action-item extraction with spaCy.
 
-**[JWE Client-Side Decryption Demo](https://github.com/Mishansavy/FastAPI-Next.js-JWE-demo-client-side-decryption-)**
+**[NEPSE Trend Analysis](https://github.com/Mishansavy/nepse-trend-analysis)**
+LSTM-based stock trend predictor for Nepal Stock Exchange.
+Django REST backend, full training pipeline, JWT auth, Chart.js dashboard.
+
+**[JWE Client-Side Decryption Demo](https://github.com/Mishansavy/jwe-client-decrypt-demo)**
 FastAPI sends encrypted JWE responses. Decryption happens 
 only in the browser — private key never touches the server.
 
