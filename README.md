@@ -13,10 +13,17 @@ PostgreSQL · Docker · Terraform · GCP · NGINX · Linux
 
 ---
 
-### Projects
+### Open source
 
-**[MeetMind](https://github.com/Mishansavy/MeetMind)**
-Real-time meeting intelligence: WebRTC calls, Whisper transcription, spaCy action-item extraction.
+**[Cairn](https://github.com/Mishansavy/cairn)** ([live](https://mishansavy.github.io/cairn/))
+A guidebook to open source: GitHub projects graded from beginner to expert, so a new contributor can find a fit by language and interest. Grades come from a health score and code complexity, refreshed weekly with no manual curation.
+
+**[Cloud Custodian](https://github.com/cloud-custodian/cloud-custodian/pull/11297)**
+Fixed a cache-key bug in `value_from` where request headers, including auth tokens, were stored in plaintext in the cache key. Pull request is open upstream.
+
+---
+
+### Projects
 
 **[NEPSE Trend Analysis](https://github.com/Mishansavy/nepse-trend-analysis)**
 LSTM model for the Nepal Stock Exchange. Built mostly to see where it breaks on a thin, illiquid market.
